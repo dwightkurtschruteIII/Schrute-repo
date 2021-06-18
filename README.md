@@ -2,4 +2,4 @@
 
 Online Booking App  ; 
 Making changes to see the pull from main branch to first branch
-pushing update to main brance
+pushing update to main branch
